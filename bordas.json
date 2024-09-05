@@ -1,0 +1,932 @@
+[
+    {
+        "rotulo": "BOR-LAC01-10-19",
+        "descricao": "BORDA Laca A definir Altura de 19 esp 1.00",
+        "codigo_saef": "BOR-LAC01-10-19"
+    },
+    {
+        "rotulo": "BOR-LAC01-10-22",
+        "descricao": "BORDA Laca A definir Altura de 22 esp 1.00",
+        "codigo_saef": "BOR-LAC01-10-22"
+    },
+    {
+        "rotulo": "BOR-LAC01-10-29",
+        "descricao": "BORDA Laca A definir Altura de 29 esp 1.00",
+        "codigo_saef": "BOR-LAC01-10-29"
+    },
+    {
+        "rotulo": "BOR-LAC01-10-49",
+        "descricao": "BORDA Laca A definir Altura de 49 esp 1.00",
+        "codigo_saef": "BOR-LAC01-10-49"
+    },
+    {
+        "rotulo": "BOR-LAM01-10-22",
+        "descricao": "BORDA LAM FREIJO ALTURA DE 22 ESP 1.00",
+        "codigo_saef": 1780
+    },
+    {
+        "rotulo": "BOR-LAM01-10-29",
+        "descricao": "BORDA Lam Freijo Altura de 29 esp 1.00",
+        "codigo_saef": 1877
+    },
+    {
+        "rotulo": "BOR-LAM01-10-49",
+        "descricao": "BORDA LAM FREIJO ALTURA DE 49 ESP 1.00",
+        "codigo_saef": 1878
+    },
+    {
+        "rotulo": "BOR-LAM02-10-29",
+        "descricao": "BORDA Lam Carv Branco Altura de 29 esp 1.00",
+        "codigo_saef": 1863
+    },
+    {
+        "rotulo": "BOR-LAM02-10-49",
+        "descricao": "BORDA LAM CARV BRANCO ALTURA DE 49 ESP 1.00",
+        "codigo_saef": 1862
+    },
+    {
+        "rotulo": "BOR-LAM03-10-22",
+        "descricao": "BORDA LAM EBANO ALTURA DE 22 ESP 1.00",
+        "codigo_saef": 1861
+    },
+    {
+        "rotulo": "BOR-LAM03-10-29",
+        "descricao": "BORDA Lam Ebano Altura de 29 esp 1.00",
+        "codigo_saef": 2523
+    },
+    {
+        "rotulo": "BOR-LAM03-10-49",
+        "descricao": "BORDA LAM EBANO ALTURA DE 49 ESP 1.00",
+        "codigo_saef": 1876
+    },
+    {
+        "rotulo": "BOR-LAM04-10-29",
+        "descricao": "BORDA Lam Louro Pardo Altura de 29 esp 1.00",
+        "codigo_saef": "BOR-LAM04-10-29"
+    },
+    {
+        "rotulo": "BOR-LAM04-10-49",
+        "descricao": "BORDA LAM LOURO PARDO ALTURA DE 49 ESP 1.00",
+        "codigo_saef": 1474
+    },
+    {
+        "rotulo": "BOR-LAM05-10-22",
+        "descricao": "BORDA LAM PAU FERRO ALTURA DE 22 ESP 1.00",
+        "codigo_saef": 1900
+    },
+    {
+        "rotulo": "BOR-LAM05-10-49",
+        "descricao": "BORDA LAM PAU FERRO ALTURA DE 49 ESP 1.00",
+        "codigo_saef": 1901
+    },
+    {
+        "rotulo": "BOR-LAM06-10-49",
+        "descricao": "BORDA Lam Nogueira Altura de 49 esp 1.00",
+        "codigo_saef": 1785
+    },
+    {
+        "rotulo": "BOR-LAM07-10-29",
+        "descricao": "BORDA Lam Paraiso Altura de 29 esp 1.00",
+        "codigo_saef": 2146
+    },
+    {
+        "rotulo": "BOR-LAM07-10-49",
+        "descricao": "BORDA Lam Paraiso Altura de 49 esp 1.00",
+        "codigo_saef": 2147
+    },
+    {
+        "rotulo": "BOR-LAM08-10-29",
+        "descricao": "BORDA LAM CINAMOMO Altura de 29 esp 1.00",
+        "codigo_saef": "BOR-LAM08-10-29"
+    },
+    {
+        "rotulo": "BOR-LAM08-10-49",
+        "descricao": "BORDA LAM CINAMOMO Altura de 49 esp 1.00",
+        "codigo_saef": "BOR-LAM08-10-49"
+    },
+    {
+        "rotulo": "BOR-LAM09-10-29",
+        "descricao": "BORDA Lam Copaiba Ser Altura de 29 esp 1.00",
+        "codigo_saef": "BOR-LAM09-10-29"
+    },
+    {
+        "rotulo": "BOR-LAM09-10-49",
+        "descricao": "BORDA Lam Copaiba Ser Altura de 49 esp 1.00",
+        "codigo_saef": "BOR-LAM09-10-49"
+    },
+    {
+        "rotulo": "BOR-MDFL01-10-19",
+        "descricao": "BORDA RENDA ALTURA DE 19 ESP 1.00",
+        "codigo_saef": "BOR-MDFL01-10-19"
+    },
+    {
+        "rotulo": "BOR-MDFL01-10-22",
+        "descricao": "BORDA RENDA ALTURA DE 22 ESP 1.00",
+        "codigo_saef": "BOR-MDFL01-10-22"
+    },
+    {
+        "rotulo": "BOR-MDFL01-10-29",
+        "descricao": "BORDA RENDA ALTURA DE 29 ESP 1.00",
+        "codigo_saef": "BOR-MDFL01-10-29"
+    },
+    {
+        "rotulo": "BOR-MDFL01-10-49",
+        "descricao": "BORDA RENDA ALTURA DE 49 ESP 1.00",
+        "codigo_saef": "BOR-MDFL01-10-49"
+    },
+    {
+        "rotulo": "BOR-MDFL02-10-19",
+        "descricao": "BORDA CUPUA U ALTURA DE 19 ESP 1.00",
+        "codigo_saef": 3102
+    },
+    {
+        "rotulo": "BOR-MDFL02-10-22",
+        "descricao": "BORDA CUPUA U ALTURA DE 22 ESP 1.00",
+        "codigo_saef": 3108
+    },
+    {
+        "rotulo": "BOR-MDFL02-10-29",
+        "descricao": "BORDA CUPUA U ALTURA DE 29 ESP 1.00",
+        "codigo_saef": 3101
+    },
+    {
+        "rotulo": "BOR-MDFL02-10-49",
+        "descricao": "BORDA CUPUA U ALTURA DE 49 ESP 1.00",
+        "codigo_saef": 3089
+    },
+    {
+        "rotulo": "BOR-MDFL03-10-19",
+        "descricao": "BORDA BRANCO ALTURA DE 19 ESP 1.00",
+        "codigo_saef": 812
+    },
+    {
+        "rotulo": "BOR-MDFL03-10-22",
+        "descricao": "BORDA BRANCO ALTURA DE 22 ESP 1.00",
+        "codigo_saef": 814
+    },
+    {
+        "rotulo": "BOR-MDFL03-10-29",
+        "descricao": "BORDA BRANCO ALTURA DE 29 ESP 1.00",
+        "codigo_saef": 870
+    },
+    {
+        "rotulo": "BOR-MDFL03-10-49",
+        "descricao": "BORDA BRANCO ALTURA DE 49 ESP 1.00",
+        "codigo_saef": 1139
+    },
+    {
+        "rotulo": "BOR-MDFL03-20-22",
+        "descricao": "BORDA BRANCO ALTURA DE 22 ESP 2.00",
+        "codigo_saef": 2199
+    },
+    {
+        "rotulo": "BOR-MDFL03-20-49",
+        "descricao": "BORDA BRANCO ALTURA DE 49 ESP 2.00",
+        "codigo_saef": 1536
+    },
+    {
+        "rotulo": "BOR-MDFL04-10-22",
+        "descricao": "BORDA NUDE VEL ALTURA DE 22 ESP 1.00",
+        "codigo_saef": 1145
+    },
+    {
+        "rotulo": "BOR-MDFL04-10-49",
+        "descricao": "BORDA NUDE VEL ALTURA DE 49 ESP 1.00",
+        "codigo_saef": 1144
+    },
+    {
+        "rotulo": "BOR-MDFL05-10-49",
+        "descricao": "BORDA GRIGIO ALTURA DE 49 ESP 1.00",
+        "codigo_saef": 1061
+    },
+    {
+        "rotulo": "BOR-MDFL06-10-22",
+        "descricao": "BORDA FENDI SILK ALTURA DE 22 ESP 1.00",
+        "codigo_saef": 824
+    },
+    {
+        "rotulo": "BOR-MDFL06-10-49",
+        "descricao": "BORDA FENDI SILK ALTURA DE 49 ESP 1.00",
+        "codigo_saef": 897
+    },
+    {
+        "rotulo": "BOR-MDFL07-10-22",
+        "descricao": "BORDA ICELAND ALTURA DE 22 ESP 1.00",
+        "codigo_saef": 1177
+    },
+    {
+        "rotulo": "BOR-MDFL07-10-49",
+        "descricao": "BORDA ICELAND ALTURA DE 49 ESP 1.00",
+        "codigo_saef": 1193
+    },
+    {
+        "rotulo": "BOR-MDFL08-10-22",
+        "descricao": "BORDA CAPUCCINO ALTURA DE 22 ESP 1.00",
+        "codigo_saef": 1027
+    },
+    {
+        "rotulo": "BOR-MDFL08-10-49",
+        "descricao": "BORDA CAPUCCINO ALTURA DE 49 ESP 1.00",
+        "codigo_saef": 1041
+    },
+    {
+        "rotulo": "BOR-MDFL09-10-22",
+        "descricao": "BORDA PRETO SILK ALTURA DE 22 ESP 1.00",
+        "codigo_saef": 1540
+    },
+    {
+        "rotulo": "BOR-MDFL09-10-49",
+        "descricao": "BORDA PRETO SILK ALTURA DE 49 ESP 1.00",
+        "codigo_saef": 1550
+    },
+    {
+        "rotulo": "BOR-MDFL10-10-22",
+        "descricao": "BORDA ALTO BRILHO BRANCO ALTURA DE 22 ESP 1.00",
+        "codigo_saef": 2668
+    },
+    {
+        "rotulo": "BOR-MDFL10-10-49",
+        "descricao": "BORDA ALTO BRILHO BRANCO ALTURA DE 49 ESP 1.00",
+        "codigo_saef": 2669
+    },
+    {
+        "rotulo": "BOR-MDFL10-20-49",
+        "descricao": "BORDA ALTO BRILHO BRANCO ALTURA DE 49 ESP 2.00",
+        "codigo_saef": "BOR-MDFL10-20-49"
+    },
+    {
+        "rotulo": "BOR-MDFL11-10-22",
+        "descricao": "BORDA ALTO BRILHO TORTORA ALTURA DE 22 ESP 1.00",
+        "codigo_saef": 1053
+    },
+    {
+        "rotulo": "BOR-MDFL11-10-49",
+        "descricao": "BORDA ALTO BRILHO TORTORA ALTURA DE 49 ESP 1.00",
+        "codigo_saef": 1546
+    },
+    {
+        "rotulo": "BOR-MDFL12-10-22",
+        "descricao": "BORDA ALTO BRILHO CINZA ALTURA DE 22 ESP 1.00",
+        "codigo_saef": 1066
+    },
+    {
+        "rotulo": "BOR-MDFL12-10-49",
+        "descricao": "BORDA ALTO BRILHO CINZA ALTURA DE 49 ESP 1.00",
+        "codigo_saef": 1254
+    },
+    {
+        "rotulo": "BOR-MDFL13-10-22",
+        "descricao": "BORDA CINZA COBALTO ALTURA DE 22 ESP 1.00",
+        "codigo_saef": 953
+    },
+    {
+        "rotulo": "BOR-MDFL13-10-49",
+        "descricao": "BORDA CINZA COBALTO ALTURA DE 49 ESP 1.00",
+        "codigo_saef": 952
+    },
+    {
+        "rotulo": "BOR-MDFL14-10-22",
+        "descricao": "BORDA METALIC SUED ALTURA DE 22 ESP 1.00",
+        "codigo_saef": 1178
+    },
+    {
+        "rotulo": "BOR-MDFL14-10-49",
+        "descricao": "BORDA METALIC SUED ALTURA DE 49 ESP 1.00",
+        "codigo_saef": 1208
+    },
+    {
+        "rotulo": "BOR-MDFL15-10-22",
+        "descricao": "BORDA OURO ALTURA DE 22 ESP 1.00",
+        "codigo_saef": 1521
+    },
+    {
+        "rotulo": "BOR-MDFL15-10-49",
+        "descricao": "BORDA OURO ALTURA DE 49 ESP 1.00",
+        "codigo_saef": 1522
+    },
+    {
+        "rotulo": "BOR-MDFL16-10-22",
+        "descricao": "BORDA PANAMA ALTURA DE 22 ESP 1.00",
+        "codigo_saef": 1524
+    },
+    {
+        "rotulo": "BOR-MDFL16-10-49",
+        "descricao": "BORDA PANAMA ALTURA DE 49 ESP 1.00",
+        "codigo_saef": 1525
+    },
+    {
+        "rotulo": "BOR-MDFL18-20-19",
+        "descricao": "BORDA MDF Plus Altura de 19 esp 2.00",
+        "codigo_saef": "BOR-MDFL18-20-19"
+    },
+    {
+        "rotulo": "BOR-MDFL19-10-22",
+        "descricao": "BORDA SAL ROSA Altura de 22 esp 1.00",
+        "codigo_saef": 1918
+    },
+    {
+        "rotulo": "BOR-MDFL19-10-29",
+        "descricao": "BORDA Sal Rosa Altura de 29 esp 1.00",
+        "codigo_saef": 2245
+    },
+    {
+        "rotulo": "BOR-MDFL19-10-49",
+        "descricao": "BORDA SAL ROSA Altura de 49 esp 1.00",
+        "codigo_saef": 1938
+    },
+    {
+        "rotulo": "BOR-MDFL20-10-22",
+        "descricao": "BORDA Ebano Chess Altura de 22 esp 1.00",
+        "codigo_saef": 1921
+    },
+    {
+        "rotulo": "BOR-MDFL20-10-29",
+        "descricao": "BORDA Ebano Chess Altura de 29 esp 1.00",
+        "codigo_saef": 2243
+    },
+    {
+        "rotulo": "BOR-MDFL20-10-49",
+        "descricao": "BORDA Ebano Chess Altura de 49 esp 1.00",
+        "codigo_saef": 1922
+    },
+    {
+        "rotulo": "BOR-MDFL21-10-19",
+        "descricao": "BORDA Trama Mobile Altura de 19 esp 1.00",
+        "codigo_saef": 1943
+    },
+    {
+        "rotulo": "BOR-MDFL21-10-22",
+        "descricao": "BORDA Trama Mobile Altura de 22 esp 1.00",
+        "codigo_saef": 1928
+    },
+    {
+        "rotulo": "BOR-MDFL21-10-29",
+        "descricao": "BORDA Trama Mobile Altura de 29 esp 1.00",
+        "codigo_saef": 1929
+    },
+    {
+        "rotulo": "BOR-MDFL21-10-49",
+        "descricao": "BORDA Trama Mobile Altura de 49 esp 1.00",
+        "codigo_saef": 1944
+    },
+    {
+        "rotulo": "BOR-MDFL22-10-22",
+        "descricao": "BORDA Trama Tit nio Altura de 22 esp 1.00",
+        "codigo_saef": 1905
+    },
+    {
+        "rotulo": "BOR-MDFL22-10-29",
+        "descricao": "BORDA Titanio Altura de 29 esp 1.00",
+        "codigo_saef": 2253
+    },
+    {
+        "rotulo": "BOR-MDFL22-10-49",
+        "descricao": "BORDA Trama Tit nio Altura de 49 esp 1.00",
+        "codigo_saef": 1930
+    },
+    {
+        "rotulo": "BOR-MDFL23-10-22",
+        "descricao": "BORDA Essencial Cinza Sagrado Altura de 22 esp 1.00",
+        "codigo_saef": 1907
+    },
+    {
+        "rotulo": "BOR-MDFL23-10-29",
+        "descricao": "BORDA Cinza Sagrado Altura de 29 esp 1.00",
+        "codigo_saef": 2260
+    },
+    {
+        "rotulo": "BOR-MDFL23-10-49",
+        "descricao": "BORDA Essencial Cinza Sagrado Altura de 49 esp 1.00",
+        "codigo_saef": 1932
+    },
+    {
+        "rotulo": "BOR-MDFL24-10-22",
+        "descricao": "BORDA Essencial P rola Urbana Altura de 22 esp 1.00",
+        "codigo_saef": 1906
+    },
+    {
+        "rotulo": "BOR-MDFL24-10-29",
+        "descricao": "BORDA Perola Urbana Altura de 29 esp 1.00",
+        "codigo_saef": 2255
+    },
+    {
+        "rotulo": "BOR-MDFL24-10-49",
+        "descricao": "BORDA Essencial P rola Urbana Altura de 49 esp 1.00",
+        "codigo_saef": 1931
+    },
+    {
+        "rotulo": "BOR-MDFL25-10-22",
+        "descricao": "BORDA Trama Gianduia Altura de 22 esp 1.00",
+        "codigo_saef": 1903
+    },
+    {
+        "rotulo": "BOR-MDFL25-10-49",
+        "descricao": "BORDA Trama Gianduia Altura de 49 esp 1.00",
+        "codigo_saef": 1904
+    },
+    {
+        "rotulo": "BOR-MDFL26-10-22",
+        "descricao": "BORDA Trama Palha Altura de 22 esp 1.00",
+        "codigo_saef": "BOR-MDFL26-10-22"
+    },
+    {
+        "rotulo": "BOR-MDFL26-10-49",
+        "descricao": "BORDA Trama Palha Altura de 49 esp 1.00",
+        "codigo_saef": "BOR-MDFL26-10-49"
+    },
+    {
+        "rotulo": "BOR-MDFL27-10-22",
+        "descricao": "BORDA Essencial Mint Altura de 22 esp 1.00",
+        "codigo_saef": 1909
+    },
+    {
+        "rotulo": "BOR-MDFL27-10-29",
+        "descricao": "BORDA Portoro Altura de 29 esp 1.00",
+        "codigo_saef": 2250
+    },
+    {
+        "rotulo": "BOR-MDFL27-10-49",
+        "descricao": "BORDA Essencial Mint Altura de 49 esp 1.00",
+        "codigo_saef": 1934
+    },
+    {
+        "rotulo": "BOR-MDFL28-10-22",
+        "descricao": "BORDA Canela Altura de 22 esp 1.00",
+        "codigo_saef": 1924
+    },
+    {
+        "rotulo": "BOR-MDFL28-10-49",
+        "descricao": "BORDA Canela Altura de 49 esp 1.00",
+        "codigo_saef": 1942
+    },
+    {
+        "rotulo": "BOR-MDFL29-10-22",
+        "descricao": "BORDA Bufalo Couro Altura de 22 esp 1.00",
+        "codigo_saef": 1920
+    },
+    {
+        "rotulo": "BOR-MDFL29-10-49",
+        "descricao": "BORDA Bufalo Couro Altura de 49 esp 1.00",
+        "codigo_saef": 1940
+    },
+    {
+        "rotulo": "BOR-MDFL30-10-22",
+        "descricao": "BORDA Cinzell Altura de 22 esp 1.00",
+        "codigo_saef": 1919
+    },
+    {
+        "rotulo": "BOR-MDFL30-10-49",
+        "descricao": "BORDA Cinzell Altura de 49 esp 1.00",
+        "codigo_saef": 1939
+    },
+    {
+        "rotulo": "BOR-MDFL31-10-22",
+        "descricao": "BORDA Lino Piombo Altura de 22 esp 1.00",
+        "codigo_saef": 1925
+    },
+    {
+        "rotulo": "BOR-MDFL31-10-29",
+        "descricao": "BORDA Lino Piombo Altura de 29 esp 1.00",
+        "codigo_saef": 2244
+    },
+    {
+        "rotulo": "BOR-MDFL31-10-49",
+        "descricao": "BORDA Lino Piombo Altura de 49 esp 1.00",
+        "codigo_saef": 1926
+    },
+    {
+        "rotulo": "BOR-MDFL32-10-22",
+        "descricao": "BORDA Brita Sonoma Altura de 22 esp 1.00",
+        "codigo_saef": 1927
+    },
+    {
+        "rotulo": "BOR-MDFL32-10-49",
+        "descricao": "BORDA Brita Sonoma Altura de 49 esp 1.00",
+        "codigo_saef": "BOR-MDFL32-10-49"
+    },
+    {
+        "rotulo": "BOR-MDFL33-10-22",
+        "descricao": "BORDA Branco Supremo Altura de 22 esp 1.00",
+        "codigo_saef": 1923
+    },
+    {
+        "rotulo": "BOR-MDFL33-10-29",
+        "descricao": "BORDA Branco Supremo Altura de 29 esp 1.00",
+        "codigo_saef": 2259
+    },
+    {
+        "rotulo": "BOR-MDFL33-10-49",
+        "descricao": "BORDA Branco Supremo Altura de 49 esp 1.00",
+        "codigo_saef": 1941
+    },
+    {
+        "rotulo": "BOR-MDFL34-10-22",
+        "descricao": "BORDA Essencial Artesanal Altura de 22 esp 1.00",
+        "codigo_saef": 1917
+    },
+    {
+        "rotulo": "BOR-MDFL34-10-49",
+        "descricao": "BORDA Essencial Artesanal Altura de 49 esp 1.00",
+        "codigo_saef": 1937
+    },
+    {
+        "rotulo": "BOR-MDFL35-10-22",
+        "descricao": "BORDA MDF A Definir Liso Altura de 22 esp 1.00",
+        "codigo_saef": "BOR-MDFL35-10-22"
+    },
+    {
+        "rotulo": "BOR-MDFL35-10-49",
+        "descricao": "BORDA MDF A Definir Liso Altura de 49 esp 1.00",
+        "codigo_saef": "BOR-MDFL35-10-49"
+    },
+    {
+        "rotulo": "BOR-MDFL36-10-22",
+        "descricao": "BORDA Iris Mosaico Altura de 22 esp 1.00",
+        "codigo_saef": 2275
+    },
+    {
+        "rotulo": "BOR-MDFL37-10-22",
+        "descricao": "BORDA Nero Ingo Altura de 22 esp 1.00",
+        "codigo_saef": 2278
+    },
+    {
+        "rotulo": "BOR-MDFL38-10-22",
+        "descricao": "BORDA Primo Fiore Altura de 22 esp 1.00",
+        "codigo_saef": 2274
+    },
+    {
+        "rotulo": "BOR-MDFL39-10-22",
+        "descricao": "BORDA Begie Altura de 22 esp 1.00",
+        "codigo_saef": 2354
+    },
+    {
+        "rotulo": "BOR-MDFL39-10-29",
+        "descricao": "BORDA Begie Altura de 29 esp 1.00",
+        "codigo_saef": 2356
+    },
+    {
+        "rotulo": "BOR-MDFL39-10-49",
+        "descricao": "BORDA Begie Altura de 49 esp 1.00",
+        "codigo_saef": 2355
+    },
+    {
+        "rotulo": "BOR-MDFL40-10-22",
+        "descricao": "BORDA Cacau Altura de 22 esp 1.00",
+        "codigo_saef": 2316
+    },
+    {
+        "rotulo": "BOR-MDFL40-10-29",
+        "descricao": "BORDA Cacau Altura de 29 esp 1.00",
+        "codigo_saef": 2361
+    },
+    {
+        "rotulo": "BOR-MDFL40-10-49",
+        "descricao": "BORDA Cacau Altura de 49 esp 1.00",
+        "codigo_saef": 2362
+    },
+    {
+        "rotulo": "BOR-MDFL41-10-22",
+        "descricao": "BORDA Beton Altura de 22 esp 1.00",
+        "codigo_saef": 2318
+    },
+    {
+        "rotulo": "BOR-MDFL41-10-29",
+        "descricao": "BORDA Beton Altura de 29 esp 1.00",
+        "codigo_saef": 2413
+    },
+    {
+        "rotulo": "BOR-MDFL41-10-49",
+        "descricao": "BORDA Beton Altura de 49 esp 1.00",
+        "codigo_saef": 2319
+    },
+    {
+        "rotulo": "BOR-MDFL42-10-22",
+        "descricao": "BORDA Verde Jade Altura de 22 esp 1.00",
+        "codigo_saef": 2645
+    },
+    {
+        "rotulo": "BOR-MDFL42-10-49",
+        "descricao": "BORDA Verde Jade Altura de 49 esp 1.00",
+        "codigo_saef": 2903
+    },
+    {
+        "rotulo": "BOR-MDFL43-10-22",
+        "descricao": "BORDA Azul Astral Altura de 22 esp 1.00",
+        "codigo_saef": 2842
+    },
+    {
+        "rotulo": "BOR-MDFL44-10-22",
+        "descricao": "BORDA Grafite Altura de 22 esp 1.00",
+        "codigo_saef": 2910
+    },
+    {
+        "rotulo": "BOR-MDFL44-10-29",
+        "descricao": "BORDA Grafite Altura de 29 esp 1.00",
+        "codigo_saef": 2942
+    },
+    {
+        "rotulo": "BOR-MDFL44-10-49",
+        "descricao": "BORDA Grafite Altura de 49 esp 1.00",
+        "codigo_saef": 2926
+    },
+    {
+        "rotulo": "BOR-MDFL45-10-22",
+        "descricao": "BORDA Tartufo Acetinatta Altura de 22 esp 1.00",
+        "codigo_saef": "BOR-MDFL45-10-22"
+    },
+    {
+        "rotulo": "BOR-MDFL45-10-49",
+        "descricao": "BORDA Tartufo Acetinatta Altura de 49 esp 1.00",
+        "codigo_saef": "BOR-MDFL45-10-49"
+    },
+    {
+        "rotulo": "BOR-MDFL46-10-22",
+        "descricao": "BORDA Moss Acetinatta Altura de 22 esp 1.00",
+        "codigo_saef": "BOR-MDFL46-10-22"
+    },
+    {
+        "rotulo": "BOR-MDFL46-10-49",
+        "descricao": "BORDA Moss Acetinatta Altura de 49 esp 1.00",
+        "codigo_saef": 3036
+    },
+    {
+        "rotulo": "BOR-MDFL47-10-22",
+        "descricao": "BORDA Preto Acetinatta Altura de 22 esp 1.00",
+        "codigo_saef": "BOR-MDFL47-10-22"
+    },
+    {
+        "rotulo": "BOR-MDFL47-10-49",
+        "descricao": "BORDA Preto Acetinatta Altura de 49 esp 1.00",
+        "codigo_saef": 3021
+    },
+    {
+        "rotulo": "BOR-MDFL48-10-22",
+        "descricao": "BORDA Grafite Acetinatta Altura de 22 esp 1.00",
+        "codigo_saef": "BOR-MDFL48-10-22"
+    },
+    {
+        "rotulo": "BOR-MDFL48-10-49",
+        "descricao": "BORDA Grafite Acetinatta Altura de 49 esp 1.00",
+        "codigo_saef": 3020
+    },
+    {
+        "rotulo": "BOR-MDFL49-10-22",
+        "descricao": "BORDA Branco Diamante Altura de 22 esp 1.00",
+        "codigo_saef": 3011
+    },
+    {
+        "rotulo": "BOR-MDFL49-10-29",
+        "descricao": "BORDA Branco Diamante Altura de 29 esp 1.00",
+        "codigo_saef": 3094
+    },
+    {
+        "rotulo": "BOR-MDFL49-10-49",
+        "descricao": "BORDA Branco Diamante Altura de 49 esp 1.00",
+        "codigo_saef": 3023
+    },
+    {
+        "rotulo": "BOR-MDFL50-10-22",
+        "descricao": "BORDA Off White Altura de 22 esp 1.00",
+        "codigo_saef": 3100
+    },
+    {
+        "rotulo": "BOR-MDFL50-10-29",
+        "descricao": "BORDA Off White Altura de 29 esp 1.00",
+        "codigo_saef": 3095
+    },
+    {
+        "rotulo": "BOR-MDFL50-10-49",
+        "descricao": "BORDA Off White Altura de 49 esp 1.00",
+        "codigo_saef": 3096
+    },
+    {
+        "rotulo": "BOR-MDFL51-10-22",
+        "descricao": "BORDA PVC Altura de 22 esp 1.00",
+        "codigo_saef": "BOR-MDFL51-10-22"
+    },
+    {
+        "rotulo": "BOR-MDFL52-10-22",
+        "descricao": "BORDA CAPA Altura de 22 esp 1.00",
+        "codigo_saef": "BOR-MDFL52-10-22"
+    },
+    {
+        "rotulo": "BOR-MDFL53-10-22",
+        "descricao": "BORDA Jalapao Altura de 22 esp 1.00",
+        "codigo_saef": "BOR-MDFL53-10-22"
+    },
+    {
+        "rotulo": "BOR-MDFL53-10-49",
+        "descricao": "BORDA Jalapao Altura de 49 esp 1.00",
+        "codigo_saef": "BOR-MDFL53-10-49"
+    },
+    {
+        "rotulo": "BOR-MDFL54-10-22",
+        "descricao": "BORDA Salvia Altura de 22 esp 1.00",
+        "codigo_saef": "BOR-MDFL54-10-22"
+    },
+    {
+        "rotulo": "BOR-MDFL54-10-49",
+        "descricao": "BORDA Salvia Altura de 49 esp 1.00",
+        "codigo_saef": "BOR-MDFL54-10-49"
+    },
+    {
+        "rotulo": "BOR-MDFL97-10-22",
+        "descricao": "BORDA Vale Flex Coluna Altura de 22 esp 1.00",
+        "codigo_saef": "BOR-MDFL97-10-22"
+    },
+    {
+        "rotulo": "BOR-MDFL99-20-19",
+        "descricao": "BORDA Material para prensar Altura de 19 esp 2.00",
+        "codigo_saef": "BOR-MDFL99-20-19"
+    },
+    {
+        "rotulo": "BOR-MDFM01-10-22",
+        "descricao": "BORDA LOURO FREIJO ALTURA DE 22 ESP 1.00",
+        "codigo_saef": 1517
+    },
+    {
+        "rotulo": "BOR-MDFM01-10-49",
+        "descricao": "BORDA LOURO FREIJO ALTURA DE 49 ESP 1.00",
+        "codigo_saef": 1518
+    },
+    {
+        "rotulo": "BOR-MDFM02-10-22",
+        "descricao": "BORDA CARV TREVISO ALTURA DE 22 ESP 1.00",
+        "codigo_saef": 1526
+    },
+    {
+        "rotulo": "BOR-MDFM02-10-49",
+        "descricao": "BORDA CARV TREVISO ALTURA DE 49 ESP 1.00",
+        "codigo_saef": 1551
+    },
+    {
+        "rotulo": "BOR-MDFM03-10-22",
+        "descricao": "BORDA SAVANA ALTURA DE 22 ESP 1.00",
+        "codigo_saef": 1029
+    },
+    {
+        "rotulo": "BOR-MDFM03-10-49",
+        "descricao": "BORDA SAVANA ALTURA DE 49 ESP 1.00",
+        "codigo_saef": 1037
+    },
+    {
+        "rotulo": "BOR-MDFM04-10-22",
+        "descricao": "BORDA Essencial Wood Taupo Altura de 22 esp 1.00",
+        "codigo_saef": 1916
+    },
+    {
+        "rotulo": "BOR-MDFM04-10-29",
+        "descricao": "BORDA Taupo Altura de 29 esp 1.00",
+        "codigo_saef": 2248
+    },
+    {
+        "rotulo": "BOR-MDFM04-10-49",
+        "descricao": "BORDA Essencial Wood Taupo Altura de 49 esp 1.00",
+        "codigo_saef": 2026
+    },
+    {
+        "rotulo": "BOR-MDFM05-10-22",
+        "descricao": "BORDA Marmo Altura de 22 esp 1.00",
+        "codigo_saef": 1538
+    },
+    {
+        "rotulo": "BOR-MDFM05-10-49",
+        "descricao": "BORDA Marmo Altura de 49 esp 1.00",
+        "codigo_saef": 1539
+    },
+    {
+        "rotulo": "BOR-MDFM06-10-22",
+        "descricao": "BORDA Essencial Wood Freijo Puro Altura de 22 esp 1.00",
+        "codigo_saef": 1910
+    },
+    {
+        "rotulo": "BOR-MDFM06-10-29",
+        "descricao": "BORDA Freijo Puro Altura de 29 esp 1.00",
+        "codigo_saef": 2269
+    },
+    {
+        "rotulo": "BOR-MDFM06-10-49",
+        "descricao": "BORDA Essencial Wood Freijo Puro Altura de 49 esp 1.00",
+        "codigo_saef": 1935
+    },
+    {
+        "rotulo": "BOR-MDFM07-10-22",
+        "descricao": "BORDA Essencial Portoro Altura de 22 esp 1.00",
+        "codigo_saef": 2010
+    },
+    {
+        "rotulo": "BOR-MDFM07-10-29",
+        "descricao": "BORDA Portoro Altura de 29 esp 1.00",
+        "codigo_saef": 2251
+    },
+    {
+        "rotulo": "BOR-MDFM07-10-49",
+        "descricao": "BORDA Portoro Altura de 49 esp 1.00",
+        "codigo_saef": 2084
+    },
+    {
+        "rotulo": "BOR-MDFM08-10-22",
+        "descricao": "BORDA Essencial Thassos Altura de 22 esp 1.00",
+        "codigo_saef": 1908
+    },
+    {
+        "rotulo": "BOR-MDFM08-10-29",
+        "descricao": "BORDA Essencial Thassos Altura de 29 esp 1.00",
+        "codigo_saef": 2252
+    },
+    {
+        "rotulo": "BOR-MDFM08-10-49",
+        "descricao": "BORDA Essencial Thassos Altura de 49 esp 1.00",
+        "codigo_saef": 1933
+    },
+    {
+        "rotulo": "BOR-MDFM09-10-22",
+        "descricao": "BORDA MDF A DEFINIR Altura de 22 esp 1.00",
+        "codigo_saef": "BOR-MDFM09-10-22"
+    },
+    {
+        "rotulo": "BOR-MDFM09-10-49",
+        "descricao": "BORDA MDF A DEFINIR Altura de 49 esp 1.00",
+        "codigo_saef": "BOR-MDFM09-10-49"
+    },
+    {
+        "rotulo": "BOR-MDFM10-10-22",
+        "descricao": "BORDA Carvalho Berlin Altura de 22 esp 1.00",
+        "codigo_saef": 1913
+    },
+    {
+        "rotulo": "BOR-MDFM10-10-29",
+        "descricao": "BORDA Carvalho Berlin Altura de 29 esp 1.00",
+        "codigo_saef": 2247
+    },
+    {
+        "rotulo": "BOR-MDFM10-10-49",
+        "descricao": "BORDA Carvalho Berlin Altura de 49 esp 1.00",
+        "codigo_saef": 1936
+    },
+    {
+        "rotulo": "BOR-MDFM11-10-22",
+        "descricao": "BORDA Essencial Wood Itapua Altura de 22 esp 1.00",
+        "codigo_saef": 1915
+    },
+    {
+        "rotulo": "BOR-MDFM11-10-29",
+        "descricao": "BORDA Essencial Wood Itapua Altura de 29 esp 1.00",
+        "codigo_saef": 2249
+    },
+    {
+        "rotulo": "BOR-MDFM11-10-49",
+        "descricao": "BORDA Essencial Wood Itapua Altura de 49 esp 1.00",
+        "codigo_saef": 1912
+    },
+    {
+        "rotulo": "BOR-MDFM12-10-22",
+        "descricao": "BORDA Prisma Nogueira Cadiz Altura de 22 esp 1.00",
+        "codigo_saef": 1911
+    },
+    {
+        "rotulo": "BOR-MDFM12-10-49",
+        "descricao": "BORDA Prisma Nogueira Cadiz Altura de 49 esp 1.00",
+        "codigo_saef": "BOR-MDFM12-10-49"
+    },
+    {
+        "rotulo": "BOR-MDFM13-10-22",
+        "descricao": "BORDA Nogueira Veneto Altura de 22 esp 1.00",
+        "codigo_saef": 3131
+    },
+    {
+        "rotulo": "BOR-MDFM13-10-29",
+        "descricao": "BORDA Nogueira Veneto Altura de 29 esp 1.00",
+        "codigo_saef": 3158
+    },
+    {
+        "rotulo": "BOR-MDFM13-10-49",
+        "descricao": "BORDA Nogueira Veneto Altura de 49 esp 1.00",
+        "codigo_saef": 3159
+    },
+    {
+        "rotulo": "BOR-MDFM14-10-22",
+        "descricao": "BORDA Camelo Couro Altura de 22 esp 1.00",
+        "codigo_saef": "BOR-MDFM14-10-22"
+    },
+    {
+        "rotulo": "BOR-MDFM14-10-49",
+        "descricao": "BORDA Camelo Couro Altura de 49 esp 1.00",
+        "codigo_saef": "BOR-MDFM14-10-49"
+    },
+    {
+        "rotulo": "BOR-MDFM15-10-22",
+        "descricao": "BORDA Escarlate Altura de 22 esp 1.00",
+        "codigo_saef": "BOR-MDFM15-10-22"
+    },
+    {
+        "rotulo": "BOR-MDFM15-10-29",
+        "descricao": "BORDA Escarlate Altura de 29 esp 1.00",
+        "codigo_saef": "BOR-MDFM15-10-29"
+    },
+    {
+        "rotulo": "BOR-MDFM15-10-49",
+        "descricao": "BORDA Escarlate Altura de 49 esp 1.00",
+        "codigo_saef": "BOR-MDFM15-10-49"
+    }
+]

@@ -1,0 +1,51 @@
+/* src/App.css */
+.App {
+  text-align: center;
+  padding: 20px;
+}
+
+.cards {
+  display: flex;
+  justify-content: space-around;
+  margin-bottom: 20px;
+}
+
+.card {
+  background: #f0f0f0;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  position: relative;
+  overflow: hidden;
+  width: 20%;
+}
+
+.card::before {
+  content: '';
+  position: absolute;
+  top: -50%;
+  left: -50%;
+  width: 200%;
+  height: 200%;
+  background: radial-gradient(circle, rgba(0, 0, 0, 0.05), transparent 40%);
+  z-index: 1;
+  transform: rotate(45deg);
+}
+
+.card h3,
+.card p {
+  position: relative;
+  z-index: 2;
+}
+
+.charts {
+  display: flex;
+  justify-content: sp;
+}
+
+.bar-chart {
+  width: 45%;
+}
+.pie-chart {
+  width: 30%;
+}

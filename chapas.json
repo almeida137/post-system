@@ -1,0 +1,932 @@
+[
+    {
+        "rotulo": "MDF-CAPA-25",
+        "descricao": "PAINEL CAPA 25 MM",
+        "codigo_saef": "CAPA25"
+    },
+    {
+        "rotulo": "MDF-CAPA25-25",
+        "descricao": "CHAPA CAPA 25 MM",
+        "codigo_saef": "MDF-CAPA25-25"
+    },
+    {
+        "rotulo": "MDF-LAM01-18",
+        "descricao": "LAM FREIJO 18",
+        "codigo_saef": 5026
+    },
+    {
+        "rotulo": "MDF-LAM01-24",
+        "descricao": "CHAPA Lam Freijo 24 MM",
+        "codigo_saef": 5027
+    },
+    {
+        "rotulo": "MDF-LAM01-6",
+        "descricao": "LAM FREIJO 6",
+        "codigo_saef": 1775
+    },
+    {
+        "rotulo": "MDF-LAM02-18",
+        "descricao": "LAM CARV BRANCO 18",
+        "codigo_saef": 5028
+    },
+    {
+        "rotulo": "MDF-LAM02-24",
+        "descricao": "CHAPA Lam Carv Branco 24 MM",
+        "codigo_saef": 5029
+    },
+    {
+        "rotulo": "MDF-LAM02-6",
+        "descricao": "LAM CARV BRANCO 6",
+        "codigo_saef": 2374
+    },
+    {
+        "rotulo": "MDF-LAM03-18",
+        "descricao": "LAM EBANO 18",
+        "codigo_saef": 5030
+    },
+    {
+        "rotulo": "MDF-LAM03-24",
+        "descricao": "CHAPA Lam Ebano 24 MM",
+        "codigo_saef": 5031
+    },
+    {
+        "rotulo": "MDF-LAM03-6",
+        "descricao": "LAM EBANO 6",
+        "codigo_saef": 1859
+    },
+    {
+        "rotulo": "MDF-LAM04-18",
+        "descricao": "LAM LOURO PARDO 18",
+        "codigo_saef": 1123
+    },
+    {
+        "rotulo": "MDF-LAM04-24",
+        "descricao": "CHAPA Lam Louro Pardo 24 MM",
+        "codigo_saef": 5032
+    },
+    {
+        "rotulo": "MDF-LAM04-6",
+        "descricao": "LAM LOURO PARDO 6",
+        "codigo_saef": 1124
+    },
+    {
+        "rotulo": "MDF-LAM05-18",
+        "descricao": "LAM PAU FERRO 18",
+        "codigo_saef": 1159
+    },
+    {
+        "rotulo": "MDF-LAM05-24",
+        "descricao": "CHAPA Lam Pau Ferro 24 MM",
+        "codigo_saef": 5033
+    },
+    {
+        "rotulo": "MDF-LAM05-6",
+        "descricao": "LAM PAU FERRO 6",
+        "codigo_saef": 1432
+    },
+    {
+        "rotulo": "MDF-LAM06-18",
+        "descricao": "CHAPA Lam 18 MM",
+        "codigo_saef": "MDF-LAM06-18"
+    },
+    {
+        "rotulo": "MDF-LAM06-24",
+        "descricao": "CHAPA Lam 24 MM",
+        "codigo_saef": "MDF-LAM06-24"
+    },
+    {
+        "rotulo": "MDF-LAM06-6",
+        "descricao": "LAM NOGUEIRA 6 MM",
+        "codigo_saef": 2375
+    },
+    {
+        "rotulo": "MDF-LAM07-18",
+        "descricao": "CHAPA Lam Paraiso 18 MM",
+        "codigo_saef": "MDF-LAM07-18"
+    },
+    {
+        "rotulo": "MDF-LAM07-24",
+        "descricao": "CHAPA Lam Paraiso 24 MM",
+        "codigo_saef": "MDF-LAM07-24"
+    },
+    {
+        "rotulo": "MDF-LAM07-6",
+        "descricao": "CHAPA Lam Paraiso 6 MM",
+        "codigo_saef": 1777
+    },
+    {
+        "rotulo": "MDF-LAM08-18",
+        "descricao": "CHAPA Lam Cinamomo 18 MM",
+        "codigo_saef": "MDF-LAM08-18"
+    },
+    {
+        "rotulo": "MDF-LAM08-24",
+        "descricao": "CHAPA Lam Cinamomo 24 MM",
+        "codigo_saef": "MDF-LAM08-24"
+    },
+    {
+        "rotulo": "MDF-LAM08-6",
+        "descricao": "CHAPA Lam Cinamomo 6 MM",
+        "codigo_saef": 3214
+    },
+    {
+        "rotulo": "MDF-LAM09-18",
+        "descricao": "CHAPA Lam Copaiba Ser 18 MM",
+        "codigo_saef": "MDF-LAM09-18"
+    },
+    {
+        "rotulo": "MDF-LAM09-6",
+        "descricao": "CHAPA Lam Copaiba Ser 6 MM",
+        "codigo_saef": 3248
+    },
+    {
+        "rotulo": "MDF-MDFL01-15",
+        "descricao": "MDF RENDA 2750X1830X15MM",
+        "codigo_saef": "MDF-MDFL01-RENDA15"
+    },
+    {
+        "rotulo": "MDF-MDFL01-18",
+        "descricao": "MDF RENDA 2750X1830X18MM",
+        "codigo_saef": "MDF-MDFL01-RENDA18"
+    },
+    {
+        "rotulo": "MDF-MDFL01-25",
+        "descricao": "MDF RENDA 2750X1830X25MM",
+        "codigo_saef": "MDF-MDFL01-RENDA25"
+    },
+    {
+        "rotulo": "MDF-MDFL01-6",
+        "descricao": "MDF RENDA 2750X1830X6MM",
+        "codigo_saef": "MDF-MDFL01-RENDA06"
+    },
+    {
+        "rotulo": "MDF-MDFL02-15",
+        "descricao": "MDF CUPUA U 2750X1830X15MM",
+        "codigo_saef": 3067
+    },
+    {
+        "rotulo": "MDF-MDFL02-18",
+        "descricao": "MDF CUPUA U 2750X1830X18MM",
+        "codigo_saef": 3086
+    },
+    {
+        "rotulo": "MDF-MDFL02-25",
+        "descricao": "MDF CUPUA U 2750X1830X25MM",
+        "codigo_saef": 3087
+    },
+    {
+        "rotulo": "MDF-MDFL02-6",
+        "descricao": "MDF CUPUACU 2750X1830X6MM",
+        "codigo_saef": 3066
+    },
+    {
+        "rotulo": "MDF-MDFL03-15",
+        "descricao": "MDF BRANCO 2750X1850X15MM 2FACES",
+        "codigo_saef": 2290
+    },
+    {
+        "rotulo": "MDF-MDFL03-18",
+        "descricao": "MDF BRANCO 2750X1850X18MM 2FACE",
+        "codigo_saef": 2268
+    },
+    {
+        "rotulo": "MDF-MDFL03-25",
+        "descricao": "MDF BRANCO TX/TX 2750X1850X25MM",
+        "codigo_saef": 2291
+    },
+    {
+        "rotulo": "MDF-MDFL03-6",
+        "descricao": "MDF BRANCO 2750X1850X06MM 1FACE",
+        "codigo_saef": 2409
+    },
+    {
+        "rotulo": "MDF-MDFL04-18",
+        "descricao": "MDF BP NUDE VEL 2FC 18 MM PRI",
+        "codigo_saef": 1162
+    },
+    {
+        "rotulo": "MDF-MDFL04-6",
+        "descricao": "MDF NUDE VEL 2750X1830X6MM",
+        "codigo_saef": 1163
+    },
+    {
+        "rotulo": "MDF-MDFL05-18",
+        "descricao": "MDF BP LINEN GRIGIO VEL 2750X1850X18MM 2FC",
+        "codigo_saef": 60
+    },
+    {
+        "rotulo": "MDF-MDFL05-6",
+        "descricao": "MDF LINEN GRIGIO VEL 1FC 6 MM (MDF) PRI",
+        "codigo_saef": 1133
+    },
+    {
+        "rotulo": "MDF-MDFL06-18",
+        "descricao": "MDF FENDI SILK 2750X1850X18MM 2FCS",
+        "codigo_saef": 13
+    },
+    {
+        "rotulo": "MDF-MDFL06-6",
+        "descricao": "MDF FENDI SILK 2750X1850X06MM 01FC",
+        "codigo_saef": 14
+    },
+    {
+        "rotulo": "MDF-MDFL07-18",
+        "descricao": "MDF ICELAND|SK/SK|F2|2750X1850|18",
+        "codigo_saef": 1167
+    },
+    {
+        "rotulo": "MDF-MDFL07-6",
+        "descricao": "MDF ICELAND|SK/SK|F2|2750X1850|06",
+        "codigo_saef": 1168
+    },
+    {
+        "rotulo": "MDF-MDFL08-18",
+        "descricao": "MDF CAPUCCINO 2750X1850X18MM",
+        "codigo_saef": 999
+    },
+    {
+        "rotulo": "MDF-MDFL08-6",
+        "descricao": "MDF CAPUCCINO 2750X1850X6MM",
+        "codigo_saef": 1001
+    },
+    {
+        "rotulo": "MDF-MDFL09-18",
+        "descricao": "MDF PRETO SILK 2750X1850X18MM",
+        "codigo_saef": 1595
+    },
+    {
+        "rotulo": "MDF-MDFL09-6",
+        "descricao": "MDF PRETO SILK 2750X1850X06MM",
+        "codigo_saef": 1594
+    },
+    {
+        "rotulo": "MDF-MDFL10-18",
+        "descricao": "MDF ALTO BRILHO BRANCO METACRILATO 2L02750X1220X18MM",
+        "codigo_saef": 783
+    },
+    {
+        "rotulo": "MDF-MDFL10-6",
+        "descricao": "MDF ALTO BRILHO BRANCO METACRILATO 1 LADO 2750X1220X7 5MM",
+        "codigo_saef": 42
+    },
+    {
+        "rotulo": "MDF-MDFL11-18",
+        "descricao": "MDF ALTO BRILHO TORTORA 18",
+        "codigo_saef": 36
+    },
+    {
+        "rotulo": "MDF-MDFL11-6",
+        "descricao": "MDF ALTO BRILHO TORTORA 6",
+        "codigo_saef": 40
+    },
+    {
+        "rotulo": "MDF-MDFL12-18",
+        "descricao": "MDF ALTO BRILHO CINZA METACRILATO 2750X1220X18MM",
+        "codigo_saef": 37
+    },
+    {
+        "rotulo": "MDF-MDFL12-6",
+        "descricao": "MDF ALTO BRILHO CINZA METACRILATO 2750X1220X7 5MM",
+        "codigo_saef": 41
+    },
+    {
+        "rotulo": "MDF-MDFL13-18",
+        "descricao": "MDF BP CINZA COBALTO LSF 2750X1850X18MM 2FC",
+        "codigo_saef": 61
+    },
+    {
+        "rotulo": "MDF-MDFL13-6",
+        "descricao": "MDF CINZA COBALTO LSF 1FC 6 MM (MDF) PRI",
+        "codigo_saef": 1318
+    },
+    {
+        "rotulo": "MDF-MDFL14-18",
+        "descricao": "MDF BP METALLIC SUEDE TX 2FC 18 MM PRI",
+        "codigo_saef": 1185
+    },
+    {
+        "rotulo": "MDF-MDFL14-6",
+        "descricao": "MDF METALIC SUED 6",
+        "codigo_saef": 1799
+    },
+    {
+        "rotulo": "MDF-MDFL15-18",
+        "descricao": "MDF OURO 2750X1850X18MM",
+        "codigo_saef": 1501
+    },
+    {
+        "rotulo": "MDF-MDFL15-6",
+        "descricao": "MDF OURO 2750X1850X6MM",
+        "codigo_saef": 1500
+    },
+    {
+        "rotulo": "MDF-MDFL16-18",
+        "descricao": "CHAPA Panama 18 MM",
+        "codigo_saef": 1509
+    },
+    {
+        "rotulo": "MDF-MDFL16-6",
+        "descricao": "CHAPA Panama 6 MM",
+        "codigo_saef": 1508
+    },
+    {
+        "rotulo": "MDF-MDFL17-30",
+        "descricao": "MDF Tecplay 30",
+        "codigo_saef": 555
+    },
+    {
+        "rotulo": "MDF-MDFL18-12",
+        "descricao": "CHAPA MDF PLUS 12 MM",
+        "codigo_saef": 2402
+    },
+    {
+        "rotulo": "MDF-MDFL19-18",
+        "descricao": "CHAPA SAL ROSA 18 MM",
+        "codigo_saef": 2145
+    },
+    {
+        "rotulo": "MDF-MDFL19-25",
+        "descricao": "CHAPA Sal Rosa 25 MM",
+        "codigo_saef": 2296
+    },
+    {
+        "rotulo": "MDF-MDFL19-6",
+        "descricao": "CHAPA SAL ROSA 6 MM",
+        "codigo_saef": 2140
+    },
+    {
+        "rotulo": "MDF-MDFL20-18",
+        "descricao": "CHAPA EBANO CHESS 18 MM",
+        "codigo_saef": 2143
+    },
+    {
+        "rotulo": "MDF-MDFL20-25",
+        "descricao": "CHAPA Ebano Chess 25 MM",
+        "codigo_saef": 2294
+    },
+    {
+        "rotulo": "MDF-MDFL20-6",
+        "descricao": "CHAPA EBANO CHESS 6 MM",
+        "codigo_saef": 2139
+    },
+    {
+        "rotulo": "MDF-MDFL21-15",
+        "descricao": "CHAPA Trama Nobile 15 MM",
+        "codigo_saef": 2227
+    },
+    {
+        "rotulo": "MDF-MDFL21-18",
+        "descricao": "CHAPA Trama Nobile 18 MM",
+        "codigo_saef": 2228
+    },
+    {
+        "rotulo": "MDF-MDFL21-25",
+        "descricao": "CHAPA Trama Nobile 25 MM",
+        "codigo_saef": 2073
+    },
+    {
+        "rotulo": "MDF-MDFL21-6",
+        "descricao": "CHAPA Trama Nobile 6 MM",
+        "codigo_saef": 2226
+    },
+    {
+        "rotulo": "MDF-MDFL22-18",
+        "descricao": "MDF Tit nio 18 MM",
+        "codigo_saef": 2080
+    },
+    {
+        "rotulo": "MDF-MDFL22-25",
+        "descricao": "MDF Tit nio 25 MM",
+        "codigo_saef": 2239
+    },
+    {
+        "rotulo": "MDF-MDFL22-6",
+        "descricao": "MDF Tit nio 6 MM",
+        "codigo_saef": 2079
+    },
+    {
+        "rotulo": "MDF-MDFL23-18",
+        "descricao": "MDF Cinza Sagrado 18 MM",
+        "codigo_saef": 2074
+    },
+    {
+        "rotulo": "MDF-MDFL23-25",
+        "descricao": "MDF Cinza Sagrado 25 MM",
+        "codigo_saef": 2231
+    },
+    {
+        "rotulo": "MDF-MDFL23-6",
+        "descricao": "MDF Cinza Sagrado 6 MM",
+        "codigo_saef": 2119
+    },
+    {
+        "rotulo": "MDF-MDFL24-18",
+        "descricao": "MDF P rola Urbana 18 MM",
+        "codigo_saef": 2057
+    },
+    {
+        "rotulo": "MDF-MDFL24-25",
+        "descricao": "MDF P rola Urbana 25 MM",
+        "codigo_saef": 2238
+    },
+    {
+        "rotulo": "MDF-MDFL24-6",
+        "descricao": "MDF P rola Urbana 6 MM",
+        "codigo_saef": 2055
+    },
+    {
+        "rotulo": "MDF-MDFL25-18",
+        "descricao": "MDF Gianduia 18 MM",
+        "codigo_saef": 2081
+    },
+    {
+        "rotulo": "MDF-MDFL25-25",
+        "descricao": "MDF Gianduia 25 MM",
+        "codigo_saef": 2225
+    },
+    {
+        "rotulo": "MDF-MDFL25-6",
+        "descricao": "MDF Gianduia 6 MM",
+        "codigo_saef": 2082
+    },
+    {
+        "rotulo": "MDF-MDFL26-18",
+        "descricao": "CHAPA Trama Palha 18 MM",
+        "codigo_saef": "MDF-MDFL26-18"
+    },
+    {
+        "rotulo": "MDF-MDFL26-6",
+        "descricao": "CHAPA Trama Palha 6 MM",
+        "codigo_saef": "MDF-MDFL26-6"
+    },
+    {
+        "rotulo": "MDF-MDFL27-18",
+        "descricao": "MDF Essencial Mint 18 MM",
+        "codigo_saef": 2075
+    },
+    {
+        "rotulo": "MDF-MDFL27-25",
+        "descricao": "MDF Mint 25 MM",
+        "codigo_saef": 2233
+    },
+    {
+        "rotulo": "MDF-MDFL27-6",
+        "descricao": "MDF Essencial Mint 6 MM",
+        "codigo_saef": 2058
+    },
+    {
+        "rotulo": "MDF-MDFL28-18",
+        "descricao": "MDF Canela 18 MM",
+        "codigo_saef": 2135
+    },
+    {
+        "rotulo": "MDF-MDFL28-25",
+        "descricao": "Mdf Canela 25 MM",
+        "codigo_saef": 2297
+    },
+    {
+        "rotulo": "MDF-MDFL28-6",
+        "descricao": "MDF Canela 6 MM",
+        "codigo_saef": 2141
+    },
+    {
+        "rotulo": "MDF-MDFL29-18",
+        "descricao": "CHAPA Bufalo Couro 18 MM",
+        "codigo_saef": "MDF-MDFL29-18"
+    },
+    {
+        "rotulo": "MDF-MDFL29-6",
+        "descricao": "CHAPA Bufalo Couro 6 MM",
+        "codigo_saef": "MDF-MDFL29-6"
+    },
+    {
+        "rotulo": "MDF-MDFL30-18",
+        "descricao": "CHAPA Cinzell 18 MM",
+        "codigo_saef": "MDF-MDFL30-18"
+    },
+    {
+        "rotulo": "MDF-MDFL30-6",
+        "descricao": "CHAPA Cinzell 6 MM",
+        "codigo_saef": "MDF-MDFL30-6"
+    },
+    {
+        "rotulo": "MDF-MDFL31-18",
+        "descricao": "CHAPA Lino Piombo 18 MM",
+        "codigo_saef": 2136
+    },
+    {
+        "rotulo": "MDF-MDFL31-25",
+        "descricao": "CHAPA Lino Piombo 25 MM",
+        "codigo_saef": 2295
+    },
+    {
+        "rotulo": "MDF-MDFL31-6",
+        "descricao": "CHAPA Lino Piombo 6 MM",
+        "codigo_saef": 2142
+    },
+    {
+        "rotulo": "MDF-MDFL32-18",
+        "descricao": "CHAPA Brita Sonoma 18 MM",
+        "codigo_saef": "MDF-MDFL32-18"
+    },
+    {
+        "rotulo": "MDF-MDFL32-6",
+        "descricao": "CHAPA Brita Sonoma 6 MM",
+        "codigo_saef": "MDF-MDFL32-6"
+    },
+    {
+        "rotulo": "MDF-MDFL33-18",
+        "descricao": "CHAPA Branco Supremo 18 MM",
+        "codigo_saef": 2144
+    },
+    {
+        "rotulo": "MDF-MDFL33-25",
+        "descricao": "CHAPA Branco Supremo 25 MM",
+        "codigo_saef": 2293
+    },
+    {
+        "rotulo": "MDF-MDFL33-6",
+        "descricao": "CHAPA Branco Supremo 6 MM",
+        "codigo_saef": 2298
+    },
+    {
+        "rotulo": "MDF-MDFL34-18",
+        "descricao": "CHAPA Essencial Artesanal 18 MM",
+        "codigo_saef": "MDF-MDFL34-18"
+    },
+    {
+        "rotulo": "MDF-MDFL34-6",
+        "descricao": "CHAPA Essencial Artesanal 6 MM",
+        "codigo_saef": "MDF-MDFL34-6"
+    },
+    {
+        "rotulo": "MDF-MDFL35-18",
+        "descricao": "CHAPA MDF A Definir Liso 18 MM",
+        "codigo_saef": "MDF-MDFL35-18"
+    },
+    {
+        "rotulo": "MDF-MDFL35-25",
+        "descricao": "CHAPA MDF A Definir Liso 25 MM",
+        "codigo_saef": "MDF-MDFL35-25"
+    },
+    {
+        "rotulo": "MDF-MDFL35-6",
+        "descricao": "CHAPA MDF A Definir Liso 6 MM",
+        "codigo_saef": "MDF-MDFL35-6"
+    },
+    {
+        "rotulo": "MDF-MDFL36-18",
+        "descricao": "Mdf Iris Mosaico 18 MM",
+        "codigo_saef": 2277
+    },
+    {
+        "rotulo": "MDF-MDFL36-6",
+        "descricao": "CHAPA Iris Mosaico 6 MM",
+        "codigo_saef": 2723
+    },
+    {
+        "rotulo": "MDF-MDFL37-18",
+        "descricao": "Mdf Nero Ingo 18 MM",
+        "codigo_saef": 2279
+    },
+    {
+        "rotulo": "MDF-MDFL38-18",
+        "descricao": "Mdf Primo Fiore 18 MM",
+        "codigo_saef": 2276
+    },
+    {
+        "rotulo": "MDF-MDFL38-6",
+        "descricao": "CHAPA Primo Fiore 6 MM",
+        "codigo_saef": 2722
+    },
+    {
+        "rotulo": "MDF-MDFL39-18",
+        "descricao": "CHAPA Begie Matt 18 MM",
+        "codigo_saef": 3447
+    },
+    {
+        "rotulo": "MDF-MDFL39-25",
+        "descricao": "CHAPA Begie Matt 25 MM",
+        "codigo_saef": 3446
+    },
+    {
+        "rotulo": "MDF-MDFL39-6",
+        "descricao": "CHAPA Begie Matt 6 MM",
+        "codigo_saef": 2379
+    },
+    {
+        "rotulo": "MDF-MDFL40-18",
+        "descricao": "CHAPA Cacau 18 MM",
+        "codigo_saef": 2377
+    },
+    {
+        "rotulo": "MDF-MDFL40-25",
+        "descricao": "CHAPA Cacau 25 MM",
+        "codigo_saef": 2378
+    },
+    {
+        "rotulo": "MDF-MDFL40-6",
+        "descricao": "CHAPA Cacau 6 MM",
+        "codigo_saef": 2376
+    },
+    {
+        "rotulo": "MDF-MDFL41-18",
+        "descricao": "CHAPA Beton 18 MM",
+        "codigo_saef": 2586
+    },
+    {
+        "rotulo": "MDF-MDFL41-25",
+        "descricao": "CHAPA Beton 25 MM",
+        "codigo_saef": 2587
+    },
+    {
+        "rotulo": "MDF-MDFL41-6",
+        "descricao": "CHAPA Beton 6 MM",
+        "codigo_saef": 2585
+    },
+    {
+        "rotulo": "MDF-MDFL42-18",
+        "descricao": "CHAPA Verde Jade 18 MM",
+        "codigo_saef": 2841
+    },
+    {
+        "rotulo": "MDF-MDFL43-18",
+        "descricao": "CHAPA Azul Astral 18 MM",
+        "codigo_saef": 2840
+    },
+    {
+        "rotulo": "MDF-MDFL44-18",
+        "descricao": "CHAPA Grafite 18 MM",
+        "codigo_saef": 2905
+    },
+    {
+        "rotulo": "MDF-MDFL44-25",
+        "descricao": "CHAPA Grafite 25 MM",
+        "codigo_saef": 2906
+    },
+    {
+        "rotulo": "MDF-MDFL44-6",
+        "descricao": "CHAPA Grafite 6 MM",
+        "codigo_saef": 2907
+    },
+    {
+        "rotulo": "MDF-MDFL45-18",
+        "descricao": "CHAPA Tartufo Acetinatta 18 MM",
+        "codigo_saef": 3015
+    },
+    {
+        "rotulo": "MDF-MDFL46-18",
+        "descricao": "CHAPA Moss Acetinatta 18 MM",
+        "codigo_saef": 3016
+    },
+    {
+        "rotulo": "MDF-MDFL47-18",
+        "descricao": "CHAPA Preto Acetinatta 18 MM",
+        "codigo_saef": 3017
+    },
+    {
+        "rotulo": "MDF-MDFL47-6",
+        "descricao": "CHAPA Preto Acetinatta 6 MM",
+        "codigo_saef": 3029
+    },
+    {
+        "rotulo": "MDF-MDFL48-18",
+        "descricao": "CHAPA Grafite Acetinatta 18 MM",
+        "codigo_saef": 3032
+    },
+    {
+        "rotulo": "MDF-MDFL48-6",
+        "descricao": "CHAPA Grafite Acetinatta 6 MM",
+        "codigo_saef": 3014
+    },
+    {
+        "rotulo": "MDF-MDFL49-18",
+        "descricao": "CHAPA BRANCO DIAMANTE 18 MM",
+        "codigo_saef": 3010
+    },
+    {
+        "rotulo": "MDF-MDFL49-25",
+        "descricao": "CHAPA Branco Diamante 25 MM",
+        "codigo_saef": 3103
+    },
+    {
+        "rotulo": "MDF-MDFL49-6",
+        "descricao": "CHAPA BRANCO DIAMANTE 6 MM",
+        "codigo_saef": 3097
+    },
+    {
+        "rotulo": "MDF-MDFL50-18",
+        "descricao": "CHAPA Off White 18 MM",
+        "codigo_saef": 3099
+    },
+    {
+        "rotulo": "MDF-MDFL50-25",
+        "descricao": "CHAPA Off White 25 MM",
+        "codigo_saef": 3107
+    },
+    {
+        "rotulo": "MDF-MDFL50-6",
+        "descricao": "CHAPA Off White 6 MM",
+        "codigo_saef": 3098
+    },
+    {
+        "rotulo": "MDF-MDFL51-15",
+        "descricao": "CHAPA PVC 15 MM",
+        "codigo_saef": 3456
+    },
+    {
+        "rotulo": "MDF-MDFL52-15",
+        "descricao": "PAINEL CAPA 15 MM",
+        "codigo_saef": "CAPA15"
+    },
+    {
+        "rotulo": "MDF-MDFL52-25",
+        "descricao": "CHAPA CAPA 25 MM",
+        "codigo_saef": "MDF25"
+    },
+    {
+        "rotulo": "MDF-MDFL52-6",
+        "descricao": "PAINEL CAPA 6 MM",
+        "codigo_saef": "CAPA06"
+    },
+    {
+        "rotulo": "MDF-MDFL53-18",
+        "descricao": "CHAPA Jalapao 18 MM",
+        "codigo_saef": 3420
+    },
+    {
+        "rotulo": "MDF-MDFL54-18",
+        "descricao": "CHAPA Salvia 18 MM",
+        "codigo_saef": 3421
+    },
+    {
+        "rotulo": "MDF-MDFL97-6",
+        "descricao": "CHAPA Vale Flex Coluna 6 MM",
+        "codigo_saef": 2576
+    },
+    {
+        "rotulo": "MDF-MDFL98-6",
+        "descricao": "CHAPA Vale Flex Balcao 6 MM",
+        "codigo_saef": 2577
+    },
+    {
+        "rotulo": "MDF-MDFL99-12",
+        "descricao": "CHAPA Material para prensar 12 MM",
+        "codigo_saef": 10
+    },
+    {
+        "rotulo": "MDF-MDFM01-18",
+        "descricao": "MDF FREIJO 27501850X18MM",
+        "codigo_saef": 1503
+    },
+    {
+        "rotulo": "MDF-MDFM01-6",
+        "descricao": "MDF FREIJO 27501850X6MM",
+        "codigo_saef": 1502
+    },
+    {
+        "rotulo": "MDF-MDFM02-18",
+        "descricao": "MDF CARVALHO TREVISO 2750X1850X18MM",
+        "codigo_saef": 1513
+    },
+    {
+        "rotulo": "MDF-MDFM02-6",
+        "descricao": "MDF CARVALHO TREVISO 2750X1850X6MM",
+        "codigo_saef": 1512
+    },
+    {
+        "rotulo": "MDF-MDFM03-18",
+        "descricao": "MDF SAVANA/SY/SY/F2/2750X1850/18",
+        "codigo_saef": 1043
+    },
+    {
+        "rotulo": "MDF-MDFM03-6",
+        "descricao": "MDF SAVANA|SY/SY|F2|2750X1850|06",
+        "codigo_saef": 1201
+    },
+    {
+        "rotulo": "MDF-MDFM04-18",
+        "descricao": "CHAPA Taupo 18 MM",
+        "codigo_saef": 2149
+    },
+    {
+        "rotulo": "MDF-MDFM04-25",
+        "descricao": "CHAPA Taupo 25 MM",
+        "codigo_saef": 2230
+    },
+    {
+        "rotulo": "MDF-MDFM04-6",
+        "descricao": "CHAPA Taupo 6 MM",
+        "codigo_saef": 2133
+    },
+    {
+        "rotulo": "MDF-MDFM05-18",
+        "descricao": "MDF MARMO 2750X1850X18MM",
+        "codigo_saef": 1507
+    },
+    {
+        "rotulo": "MDF-MDFM05-6",
+        "descricao": "MDF MARMO 2750X1850X6MM",
+        "codigo_saef": 1506
+    },
+    {
+        "rotulo": "MDF-MDFM06-18",
+        "descricao": "MDF Freijo Puro 18 MM",
+        "codigo_saef": 1993
+    },
+    {
+        "rotulo": "MDF-MDFM06-25",
+        "descricao": "MDF Freijo Puro 25 MM",
+        "codigo_saef": 2232
+    },
+    {
+        "rotulo": "MDF-MDFM06-6",
+        "descricao": "MDF Freijo Puro 6 MM",
+        "codigo_saef": 2118
+    },
+    {
+        "rotulo": "MDF-MDFM07-18",
+        "descricao": "MDF Portoro 18 MM",
+        "codigo_saef": 2123
+    },
+    {
+        "rotulo": "MDF-MDFM07-25",
+        "descricao": "MDF Portoro 25 MM",
+        "codigo_saef": 2236
+    },
+    {
+        "rotulo": "MDF-MDFM07-6",
+        "descricao": "MDF Portoro 6 MM",
+        "codigo_saef": 2060
+    },
+    {
+        "rotulo": "MDF-MDFM08-18",
+        "descricao": "MDF Essencial Thassos 18 MM",
+        "codigo_saef": 2122
+    },
+    {
+        "rotulo": "MDF-MDFM08-25",
+        "descricao": "MDF Essencial Thassos 25 MM",
+        "codigo_saef": 2234
+    },
+    {
+        "rotulo": "MDF-MDFM08-6",
+        "descricao": "MDF Essencial Thassos 6 MM",
+        "codigo_saef": 2124
+    },
+    {
+        "rotulo": "MDF-MDFM09-18",
+        "descricao": "CHAPA MDF A DEFINIR 18 MM",
+        "codigo_saef": "MDF-MDFM09-18"
+    },
+    {
+        "rotulo": "MDF-MDFM09-25",
+        "descricao": "CHAPA MDF A Definir Mad 25 MM",
+        "codigo_saef": "MDF-MDFM09-25"
+    },
+    {
+        "rotulo": "MDF-MDFM09-6",
+        "descricao": "CHAPA MDF A DEFINIR 6 MM",
+        "codigo_saef": "MDF-MDFM09-6"
+    },
+    {
+        "rotulo": "MDF-MDFM10-18",
+        "descricao": "MDF Carvalho Berlin 18 MM",
+        "codigo_saef": 2056
+    },
+    {
+        "rotulo": "MDF-MDFM10-25",
+        "descricao": "MDF Carvalho Berlin 25 MM",
+        "codigo_saef": 2267
+    },
+    {
+        "rotulo": "MDF-MDFM10-6",
+        "descricao": "MDF Carvalho Berlin 6 MM",
+        "codigo_saef": 2059
+    },
+    {
+        "rotulo": "MDF-MDFM11-18",
+        "descricao": "MDF Essencial Wood Itapua 18 MM",
+        "codigo_saef": 2126
+    },
+    {
+        "rotulo": "MDF-MDFM11-25",
+        "descricao": "MDF Essencial Wood Itapua 25 MM",
+        "codigo_saef": 2266
+    },
+    {
+        "rotulo": "MDF-MDFM11-6",
+        "descricao": "MDF Essencial Wood Itapua 6 MM",
+        "codigo_saef": 2125
+    },
+    {
+        "rotulo": "MDF-MDFM12-18",
+        "descricao": "CHAPA Prisma Nogueira Cadiz 18 MM",
+        "codigo_saef": "MDF-MDFM12-18"
+    },
+    {
+        "rotulo": "MDF-MDFM12-6",
+        "descricao": "CHAPA Prisma Nogueira Cadiz 6 MM",
+        "codigo_saef": "MDF-MDFM12-6"
+    }
+]
